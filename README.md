@@ -30,13 +30,13 @@
 * Первый пункт
 * Второй пункт
 
-Выделение 'кода'.  
+Выделение `кода`.  
 Выделение блока кода:  
-'''BASH
+```BASH
 mkdir my_project
 cd my_project
 git init
-'''
+```
 
 [GitHub](https://github.com/)  
 [GitHub с тайтлом](https://github.com/ "GitHub")
@@ -46,7 +46,7 @@ git init
 - [ ] Задача два
 - [ ] Задача три
 
-H~2~O  
-X^2^
+H<sub>2</sub>O  
+X<sup>3</sup>
 
-Выделение ==текста==.
+Выделение <mark>текста</mark>.
